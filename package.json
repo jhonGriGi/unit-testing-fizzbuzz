@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing-fizzbuzz",
+  "version": "1.0.0",
+  "description": "This repository was made as a example of how work with jest and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonGriGi/unit-testing-fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonGriGi/unit-testing-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/jhonGriGi/unit-testing-fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
